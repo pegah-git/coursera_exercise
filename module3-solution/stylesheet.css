@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    color: #222;
+    background-color: #87afd4;
+   
+}
+
+#header-nav{
+    background-color: ;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand{
+    padding-top: 25px;
+}
+.navbar-brand {
+    color: black;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+
+#nav-list{
+margin-top: 10px;
+}
+#nav-list a{ 
+color: black;
+text-align: center;
+}
+#nav-list a:hover {
+   background: #ccdbf0;
+ }
+ #nav-list a span {
+    font-size: 1.8em;
+  }
+  #textcontainer{
+    line-height: 1.8em;
+  
+  }
+  .jumbotron{
+     background-color: #ccdbf0;
+  }
+ h3{
+      text-align: center;
+      margin-top: 0 !important;
+ }
+  h2{
+      text-align: center;
+ }
